@@ -10,7 +10,7 @@ import org.json.simple.JSONObject;
 
 /**
  *
- * @author hsiin
+ * @author Milo Hsieh
  */
 
 public class WeatherAppAPI extends JFrame{

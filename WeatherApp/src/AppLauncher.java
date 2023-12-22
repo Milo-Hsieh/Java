@@ -2,7 +2,7 @@ import javax.swing.*;
 
 /**
  *
- * @author hsiin
+ * @author Milo Hsieh
  */
 
 public class AppLauncher {

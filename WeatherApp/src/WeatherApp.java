@@ -14,7 +14,7 @@ import org.json.simple.parser.JSONParser;
 
 /**
  *
- * @author hsiin
+ * @author Milo Hsieh
  */
 
 public class WeatherApp {
