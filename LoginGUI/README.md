@@ -2,7 +2,7 @@
 
 <h3>Introduction</h3>
 
-This basic Java GUI exercise is a Java's graphical interface element. Through regular practice, I'm gaining familiarity with layout management, event handling. It's a rewarding learning tutorial.
+I came across a highly practical exercise on YouTube. This basic Java GUI exercise is a Java's graphical interface element. Through regular practice, I'm gaining familiarity with layout management, event handling. It's a rewarding learning tutorial.
 
 Full tutorial YouTube video: [link](https://www.youtube.com/watch?v=UhsXtDm30cE&t=300s)
 
